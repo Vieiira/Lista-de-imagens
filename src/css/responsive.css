@@ -1,0 +1,12 @@
+@media (max-width: 800px){
+    .painel{
+        flex-direction: column;
+        height: 1817px;
+    }
+
+    .img{
+        margin: 0;
+    }
+
+    
+}

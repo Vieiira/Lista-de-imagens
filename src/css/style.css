@@ -1,0 +1,50 @@
+.painel{
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin: 10px;
+}
+.img p{
+     padding-bottom: 50px;
+     padding-left: 25px;
+     font-weight: 300;
+}
+
+.img h2{
+    padding-left: 25px;
+    padding-bottom: 5px;
+    font-weight: 700;
+}
+
+.rome{
+    background-image: url("../imagens/rome.png");
+    width: 335px;
+    height: 432px;
+}
+
+.boat{
+    background-image: url("../imagens/boat.png");
+    width: 335px;
+    height: 432px;
+}
+
+.sand{
+    background-image: url("../imagens/sand-and-sea.png");
+    width: 336px;
+    height: 432px;
+}
+
+.starry{
+    background-image: url("../imagens/starry-night.png");
+    width: 336px;
+    height: 432px;
+    
+}
